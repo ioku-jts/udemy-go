@@ -1,2 +1,2 @@
 # udemy-go
-first go course in udemy 
+go course in udemy 
